@@ -1,0 +1,8 @@
+name: SavageAlerts
+author: Driftay
+main: me.driftay.savagealerts.Main
+version: 1.0
+description: Message Alerts for Your Faction
+soft-depend: [Factions]
+commands:
+  savagealerts:
